@@ -1,5 +1,6 @@
 import React from "react"
 
+// Card component that takes props as an argument
 export default function Card(props) {
     return(
         <div className="card">
